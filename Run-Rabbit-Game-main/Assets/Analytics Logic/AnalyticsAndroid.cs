@@ -86,7 +86,6 @@ namespace Analytics_Logic
 
         private void Awake()
         {
-            StartGame();
             _sendAnalytics = new();
 
             bool hasShownRating = PlayerPrefs.GetInt("RatingShownOnce", 0) == 1;
