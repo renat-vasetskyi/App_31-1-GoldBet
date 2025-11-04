@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: rabbit
-  productName: Road Rabbit
+  companyName: GoldBet
+  productName: GoldBet App
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -295,7 +295,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 3972c594228ab41d38b2620e840d5f2d, type: 3}
+      m_Icon: {fileID: 2800000, guid: 1e2eed8d32556496a86354872b62738b, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

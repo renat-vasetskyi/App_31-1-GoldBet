@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149049258113",
+    "project_id": "goldbet-app",
+    "storage_bucket": "goldbet-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149049258113:android:9a8d09d24678d364659d80",
+        "android_client_info": {
+          "package_name": "com.gold.bet.app.fun.casino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jLo2f0XS-weKsdpIKAewBw7FnaUHKiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

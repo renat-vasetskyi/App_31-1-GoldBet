@@ -148,8 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82798ef87120b4121974d7cf5edb5eca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _oneSignalId: 
-  _appsflyerId: 
+  _oneSignalId: a1e3f7df-0f1b-4665-91fb-75da1530c823
+  _appsflyerId: wMJYnbwpkAHbRyjbbnw9re
   _isDebug: 0
   _nextSceneName: MainScene
 --- !u!4 &190427268

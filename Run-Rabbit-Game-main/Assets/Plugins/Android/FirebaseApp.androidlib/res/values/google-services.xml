@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
-  <string name="gcm_defaultSenderId" translatable="false">1045234307273</string>
-  <string name="google_storage_bucket" translatable="false">road-rabbit.firebasestorage.app</string>
-  <string name="project_id" translatable="false">road-rabbit</string>
-  <string name="google_api_key" translatable="false">AIzaSyCj1dwy6EzDScdBIkfNYX1ERroo0EHgIC4</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCj1dwy6EzDScdBIkfNYX1ERroo0EHgIC4</string>
-  <string name="google_app_id" translatable="false">1:1045234307273:android:c89272c15fa3cb9bb37d18</string>
+  <string name="gcm_defaultSenderId" translatable="false">149049258113</string>
+  <string name="google_storage_bucket" translatable="false">goldbet-app.firebasestorage.app</string>
+  <string name="project_id" translatable="false">goldbet-app</string>
+  <string name="google_api_key" translatable="false">AIzaSyD5jLo2f0XS-weKsdpIKAewBw7FnaUHKiU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5jLo2f0XS-weKsdpIKAewBw7FnaUHKiU</string>
+  <string name="google_app_id" translatable="false">1:149049258113:android:9a8d09d24678d364659d80</string>
 </resources>
