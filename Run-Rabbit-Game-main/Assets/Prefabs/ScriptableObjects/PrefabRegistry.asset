@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15e4b84c1a4283479c592303f3c8d3c, type: 3}
+  m_Name: PrefabRegistry
+  m_EditorClassIdentifier: 
+  Entries:
+  - Key: Rabbit
+    Prefab: {fileID: 4900947817012840665, guid: 60f72b915f0171b49a0e93626cea7ff9, type: 3}
+  - Key: MainMenuUI
+    Prefab: {fileID: 34175490922926031, guid: 5df5084a187af0448a374a70b8d760b9, type: 3}
+  - Key: SplashScreenUI
+    Prefab: {fileID: 4481753403600484681, guid: a684a6e0c450b1645a8bf65981c5d1bc, type: 3}
+  - Key: GameplayUI
+    Prefab: {fileID: 7879985672528877732, guid: 7b544f94168817a4ea159efff819f326, type: 3}
+  - Key: HowToPlayUI
+    Prefab: {fileID: 4650616841468458456, guid: cd9726f53d83ead41bfbbe2b878c21df, type: 3}
+  - Key: OnboardingUI
+    Prefab: {fileID: 1738320598817893626, guid: 3ce877d56000a94458ee600262a105de, type: 3}
+  - Key: LevelCompletedUI
+    Prefab: {fileID: 4633187098014177034, guid: 6eb2e3a529bb32b4694328c45546915f, type: 3}
+  - Key: LevelFailedUI
+    Prefab: {fileID: 6962628541282322803, guid: f9d4a37b434ab2d4ba2127b0e3a46ca6, type: 3}
+  - Key: Road
+    Prefab: {fileID: 9075152101021085372, guid: f1d39daf30a25714cbdc8e72aaec8bbf, type: 3}
+  - Key: Carrot
+    Prefab: {fileID: 1297792272137500014, guid: c6c21f3b2cbc3d440b43373b4abd35f6, type: 3}
+  - Key: Fog
+    Prefab: {fileID: 4530980007728394922, guid: 2efdd4d2fc5ccd545bf8e1cbe9fae8fc, type: 3}
+  - Key: Farmer
+    Prefab: {fileID: 824015479463903249, guid: fe959177c973ff043b7cf7d8244a8d82, type: 3}
+  - Key: Mole
+    Prefab: {fileID: 8131671120572705514, guid: 12cd686f98c5ce44a858738ea67ed874, type: 3}
+  - Key: BrownFog
+    Prefab: {fileID: 2255624360912008324, guid: 601becadf088c87478a83320833445e3, type: 3}
+  - Key: LooseHPEffect
+    Prefab: {fileID: 126257033574785904, guid: d7f26b0290f72be428f1bb33bcae920c, type: 3}

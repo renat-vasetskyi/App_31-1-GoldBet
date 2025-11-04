@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb4d5a7951f38244ebf2eb8db9b0fbad, type: 3}
+  m_Name: SoundRegistry
+  m_EditorClassIdentifier: 
+  Entries:
+  - Key: MainMusic
+    Clip: {fileID: 8300000, guid: 852cbdfdb72751449bbdb89cada6ca5e, type: 3}
+  - Key: WinSound
+    Clip: {fileID: 8300000, guid: f3b179059a8e1e446a8c32460f7811bb, type: 3}
+  - Key: LoseSound
+    Clip: {fileID: 8300000, guid: a5b673886f87dce45b981d0bf78acf2b, type: 3}
+  - Key: CarrotPickupSound
+    Clip: {fileID: 8300000, guid: 3c50a6805f03394448c50a4bcb0af155, type: 3}
