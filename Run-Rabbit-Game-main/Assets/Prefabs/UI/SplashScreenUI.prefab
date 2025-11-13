@@ -137,8 +137,8 @@ MonoBehaviour:
   splashLogo: {fileID: 6665849400054290330}
   animationDuration: 1
   delayAfter: 1
-  startScale: {x: 1.6, y: 1.6, z: 1.6}
-  endScale: {x: 1, y: 1, z: 1}
+  startScale: {x: 1, y: 1, z: 1}
+  endScale: {x: 0.25, y: 0.25, z: 0.25}
 --- !u!1 &7726046850447204269
 GameObject:
   m_ObjectHideFlags: 0
